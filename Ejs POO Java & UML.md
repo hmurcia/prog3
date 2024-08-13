@@ -1,5 +1,6 @@
 ## Ejercicios de programación orientada a objetos con Java y UML
 #### Leonardo Bermón Angarita
+##### Tomados de https://fadmon.unal.edu.co/fileadmin/user_upload/investigacion/centro_editorial/libros/ejercicios%20de%20programacion.pdf
 
 #### Ejercicio 2.1. Definición de clases
 ```
